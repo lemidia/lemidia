@@ -6,8 +6,6 @@
 - 🌱 Full time studying relate to AI field with my best colleagues.
 - 👯 My areas of interest are machine learning, deep learning, and front-end fields in web development.
 
-<br />
-
 ## Languages and Tools i've used:
 
 ### Web - Front End
