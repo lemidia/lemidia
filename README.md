@@ -23,13 +23,20 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
----
+<br />
+<br />
 
 ## Study Source Materials
 
+### Machine Learning
+
+Machine learning is the science of getting computers to act without being explicitly programmed. In the past decade, machine learning has given us self-driving cars, practical speech recognition, effective web search, and a vastly improved understanding of the human genome. Machine learning is so pervasive today that you probably use it dozens of times a day without knowing it. Many researchers also think it is the best way to make progress towards human-level AI.
+
+-[Machine Learning — Andrew Ng](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN): In this class, you will learn about the most effective machine learning techniques, and gain practice implementing them and getting them to work for yourself.
+
 ### Deep Learning
 
-- [Deep Learning textbook](https://www.deeplearningbook.org): The Deep Learning textbook is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular
+- [Deep Learning textbook](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN): The Deep Learning textbook is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular
 
 - [MIT Introduction to Deep Learning](https://www.youtube.com/watch?v=njKP3FqW3Sk&t=164s): MIT Introduction to Deep Learning 6.S191 New 2020 Edition, Lectured by Alexander Amini.
 
@@ -59,5 +66,11 @@
 ### Linear Algebra
 
 - [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab): A geometric understanding of matrices, determinants, eigen-stuffs and more.
+
+- [Linear Algebra PDF](https://www.math.ucdavis.edu/~linear/linear-guest.pdf): You can learn many things from this text book about Linear algebra. (Under attribution-NonCommercial-ShareAlike 3.0)
+
+### How to use command-line, a powerful text editor and git version control
+
+- [Basic computer tool usage](https://missing.csail.mit.edu/): You'll learn how to master the command-line, use a powerful text editor, use fancy features of version control systems, and much more!
 
 ---
