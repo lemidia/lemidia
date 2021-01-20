@@ -8,7 +8,7 @@
 - 🌱 Full time studying relate to AI field with my best colleagues.
 - 👯 My areas of interest are machine learning, deep learning, and front-end fields in web development.
 
-## Languages, Framework and Tools i've used:
+## Languages, Frameworks and Tools i've used so far:
 
 ### Web - Front End
 
@@ -70,6 +70,8 @@
 Machine learning is the science of getting computers to act without being explicitly programmed. In the past decade, machine learning has given us self-driving cars, practical speech recognition, effective web search, and a vastly improved understanding of the human genome. Many researchers also think it is the best way to make progress towards human-level AI.
 
 - [Machine Learning — Andrew Ng](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN): In this class, you will learn about the most effective machine learning techniques, and gain practice implementing them and getting them to work for yourself.
+
+- [Hands on Machine Learning](https://github.com/lemidia/handson-ml): A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.
 
 ### Deep Learning
 
