@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=lemidia.github.io&style=for-the-badge&url=https%3A%2F%2Flemidia.github.io)](https://lemidia.github.io)
 
----
+## Introduction
 
 - 🔭 I am currently studying at [Boost Camp Ai Tech hosted by Naver Connect Foundation](https://boostcamp.connect.or.kr/about.html)
 - 🌱 Full time studying relate to AI field with my best colleagues.
