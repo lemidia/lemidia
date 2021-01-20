@@ -6,7 +6,7 @@
 - 🌱 Full time studying relate to AI field with my best colleagues.
 - 👯 My areas of interest are machine learning, deep learning, and front-end fields in web development.
 
-## Languages and Tools i've used:
+## Languages, Framework and Tools i've used:
 
 ### Web - Front End
 
@@ -40,9 +40,11 @@
 
 ### Competitive programming
 
-<img align="left" alt="java" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/283px-Java_programming_language_logo.svg.png" />
+<img align="left" alt="java" height="31px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/283px-Java_programming_language_logo.svg.png" />
 
 <img align="left" alt="c++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
+
+<br />
 
 ### DataBase
 
