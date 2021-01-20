@@ -8,17 +8,31 @@
 
 <br />
 
-### Languages and Tools:
+## Languages and Tools i've used:
+
+### Web - Front End
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+
+### Web - Back End
+
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+
+### Data Science
+
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+
+### Data Base
+
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+
+### Etc
+
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
@@ -30,15 +44,23 @@
 
 ### Machine Learning
 
-Machine learning is the science of getting computers to act without being explicitly programmed. In the past decade, machine learning has given us self-driving cars, practical speech recognition, effective web search, and a vastly improved understanding of the human genome. Machine learning is so pervasive today that you probably use it dozens of times a day without knowing it. Many researchers also think it is the best way to make progress towards human-level AI.
+Machine learning is the science of getting computers to act without being explicitly programmed. In the past decade, machine learning has given us self-driving cars, practical speech recognition, effective web search, and a vastly improved understanding of the human genome. Many researchers also think it is the best way to make progress towards human-level AI.
 
--[Machine Learning — Andrew Ng](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN): In this class, you will learn about the most effective machine learning techniques, and gain practice implementing them and getting them to work for yourself.
+- [Machine Learning — Andrew Ng](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN): In this class, you will learn about the most effective machine learning techniques, and gain practice implementing them and getting them to work for yourself.
 
 ### Deep Learning
 
 - [Deep Learning textbook](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN): The Deep Learning textbook is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular
 
 - [MIT Introduction to Deep Learning](https://www.youtube.com/watch?v=njKP3FqW3Sk&t=164s): MIT Introduction to Deep Learning 6.S191 New 2020 Edition, Lectured by Alexander Amini.
+
+- [Deep Learning from Scratch](https://www.oreilly.com/library/view/deep-learning-from/9781492041405/): You’ll learn how to apply multilayer neural networks, convolutional neural networks, and recurrent neural networks from the ground up.
+
+### Linear Algebra
+
+- [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab): A geometric understanding of matrices, determinants, eigen-stuffs and more.
+
+- [Linear Algebra PDF](https://www.math.ucdavis.edu/~linear/linear-guest.pdf): You can learn many things from this text book about Linear algebra. (Under attribution-NonCommercial-ShareAlike 3.0)
 
 ### Algorithm for Competitive Programming or Coding test
 
@@ -56,18 +78,9 @@ Machine learning is the science of getting computers to act without being explic
   - Dijkstra's algorithm
   - Topological sort algorithm
   - Shortest/longest path on a acyclic graph
-  - Bellman Ford's algorithm
   - Floyd-Warshall all pairs shortest path algorithm
   - Finding bridges/articulation points
-  - Finding strongly connected components (Tarjan's)
-  - Travelling salesman problem (TSP)
-  - Network flow topics such as the Ford Fulkerson method and bipartite graph matching
-
-### Linear Algebra
-
-- [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab): A geometric understanding of matrices, determinants, eigen-stuffs and more.
-
-- [Linear Algebra PDF](https://www.math.ucdavis.edu/~linear/linear-guest.pdf): You can learn many things from this text book about Linear algebra. (Under attribution-NonCommercial-ShareAlike 3.0)
+  - and etc...
 
 ### How to use command-line, a powerful text editor and git version control
 
