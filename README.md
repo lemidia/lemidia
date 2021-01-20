@@ -24,6 +24,8 @@
 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
+<img align="left" alt="Node.js" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" />
+
 <br />
 
 ### Data Science
@@ -32,12 +34,16 @@
 
 <img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
 
+<img align="left" alt="R" width="50px" src="https://png.pngitem.com/pimgs/s/465-4651848_numpy-python-logo-hd-png-download.png" />
+
+<img align="left" alt="R" width="50px" src="https://p.kindpng.com/picc/s/574-5747046_python-pandas-logo-transparent-hd-png-download.png" />
+
 <br />
 
-### Data Base
+### DataBase
 
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MongoDB" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
 <br />
 
