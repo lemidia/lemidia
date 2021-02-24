@@ -2,11 +2,12 @@
 
 [![Website](https://img.shields.io/website?label=lemidia.github.io&style=for-the-badge&url=https%3A%2F%2Flemidia.github.io)](https://lemidia.github.io)
 
+<!---
 ## Introduction
-
-- 🔭 I am currently studying at [Boost Camp Ai Tech hosted by Naver Connect Foundation](https://boostcamp.connect.or.kr/about.html)
+ - 🔭 I am currently studying at [Boost Camp Ai Tech hosted by Naver Connect Foundation](https://boostcamp.connect.or.kr/about.html)
 - 🌱 Full time studying relate to AI field with my best colleagues.
-- 👯 My areas of interest are machine learning, deep learning, and front-end fields in web development.
+- 👯 My areas of interest are machine learning, deep learning, and front-end fields in web development. 
+-->
 
 ## Languages, Frameworks and Tools i've used so far:
 
