@@ -113,3 +113,13 @@ Machine learning is the science of getting computers to act without being explic
 - [Basic computer tool usage](https://missing.csail.mit.edu/): You'll learn how to master the command-line, use a powerful text editor, use fancy features of version control systems, and much more!
 
 ---
+
+### Web Development - Basic and Crash Course, Front-End, Back-End(MERN Stack)
+
+- [HTML]()
+- [CSS]()
+- [JavaScript]()
+- [React.js]()
+- [Node.js]()
+- [express.js]()
+- [MongoDB and Mongoose]()
