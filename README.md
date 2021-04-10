@@ -112,14 +112,12 @@ Machine learning is the science of getting computers to act without being explic
 
 - [Basic computer tool usage](https://missing.csail.mit.edu/): You'll learn how to master the command-line, use a powerful text editor, use fancy features of version control systems, and much more!
 
----
-
 ### Web Development - Basic and Crash Course, Front-End, Back-End(MERN Stack)
 
-- [HTML]()
-- [CSS]()
-- [JavaScript]()
-- [React.js]()
-- [Node.js]()
-- [express.js]()
+- [HTML - Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=UB1O30fR-EE)
+- [CSS - Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI)
+- [JavaScript - Javascript Fundamentals](https://www.youtube.com/watch?v=2Ji-clqUYnA)
+- [React.js - React Tutorial - Fundamentals, Hooks, Context API, React Router, Custom Hooks](https://www.youtube.com/watch?v=iZhV0bILFb0)
+- [Redux - React Redux Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK)
+- [Node.js & Express.js - Node and Express Tutorial](https://www.youtube.com/watch?v=TNV0_7QRDwY&t=22058s)
 - [MongoDB and Mongoose]()
