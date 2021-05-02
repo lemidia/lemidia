@@ -49,14 +49,14 @@
 
 <br />
 
-### DataBase
+### Database
 
 <img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
 <br />
 
-### Etc
+### Git and VCS etc
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
@@ -119,5 +119,6 @@ Machine learning is the science of getting computers to act without being explic
 - [JavaScript - Javascript Fundamentals](https://www.youtube.com/watch?v=2Ji-clqUYnA)
 - [React.js - React Tutorial - Fundamentals, Hooks, Context API, React Router, Custom Hooks](https://www.youtube.com/watch?v=iZhV0bILFb0)
 - [Redux - React Redux Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK)
+- [Redux Toolkit - Make Redux code better and way to simple](https://redux-toolkit.js.org/introduction/getting-started#getting-started-with-redux-toolkit)
 - [Node.js & Express.js - Node and Express Tutorial](https://www.youtube.com/watch?v=TNV0_7QRDwY&t=22058s)
 - [MongoDB and Mongoose](https://www.youtube.com/watch?v=-56x56UppqQ)
