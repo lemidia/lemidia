@@ -66,6 +66,17 @@
 
 ## Study Source Materials
 
+### Web Development - Basic and Crash Course, Front-End, Back-End(MERN Stack)
+
+- [HTML - Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=UB1O30fR-EE)
+- [CSS - Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI)
+- [JavaScript - Javascript Fundamentals](https://www.youtube.com/watch?v=2Ji-clqUYnA)
+- [React.js - React Tutorial - Fundamentals, Hooks, Context API, React Router, Custom Hooks](https://www.youtube.com/watch?v=iZhV0bILFb0)
+- [Redux - React Redux Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK)
+- [Redux Toolkit - Simpler and cleaner way to write Redux code](https://redux-toolkit.js.org/introduction/getting-started#getting-started-with-redux-toolkit)
+- [Node.js & Express.js - Node and Express Tutorial](https://www.youtube.com/watch?v=TNV0_7QRDwY&t=22058s)
+- [MongoDB and Mongoose](https://www.youtube.com/watch?v=-56x56UppqQ)
+
 ### Machine Learning
 
 Machine learning is the science of getting computers to act without being explicitly programmed. In the past decade, machine learning has given us self-driving cars, practical speech recognition, effective web search, and a vastly improved understanding of the human genome. Many researchers also think it is the best way to make progress towards human-level AI.
@@ -111,14 +122,3 @@ Machine learning is the science of getting computers to act without being explic
 ### How to use command-line, a powerful text editor and git version control
 
 - [Basic computer tool usage](https://missing.csail.mit.edu/): You'll learn how to master the command-line, use a powerful text editor, use fancy features of version control systems, and much more!
-
-### Web Development - Basic and Crash Course, Front-End, Back-End(MERN Stack)
-
-- [HTML - Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=UB1O30fR-EE)
-- [CSS - Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI)
-- [JavaScript - Javascript Fundamentals](https://www.youtube.com/watch?v=2Ji-clqUYnA)
-- [React.js - React Tutorial - Fundamentals, Hooks, Context API, React Router, Custom Hooks](https://www.youtube.com/watch?v=iZhV0bILFb0)
-- [Redux - React Redux Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK)
-- [Redux Toolkit - Simpler and cleaner way to write Redux code](https://redux-toolkit.js.org/introduction/getting-started#getting-started-with-redux-toolkit)
-- [Node.js & Express.js - Node and Express Tutorial](https://www.youtube.com/watch?v=TNV0_7QRDwY&t=22058s)
-- [MongoDB and Mongoose](https://www.youtube.com/watch?v=-56x56UppqQ)
