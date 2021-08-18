@@ -134,4 +134,6 @@ Machine learning is the science of getting computers to act without being explic
 
 - [Airbnb Landing Page - React.js, Firebase, React Date Picker](https://airbnb-lemidia.web.app/)
 
+- [Fylo Web Landing Page - Only HTML, Vanilla CSS](https://lemidia.github.io/fylo-dark-page/)
+
 - 이 외에도 Repository를 둘러보시면 많은 프로젝트들을 보실 수 있습니다.
