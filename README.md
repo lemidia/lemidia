@@ -19,7 +19,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Bootstrap 5" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/440px-Bootstrap_logo.svg.png" />
-<img align="left" alt="Tailwindcss" height="30px" src="https://symbols.getvecta.com/stencil_97/2_tailwind-css.541185202d.svgg" />
+<img align="left" alt="Tailwindcss" height="30px" src="https://symbols.getvecta.com/stencil_97/2_tailwind-css.541185202d.svg" />
 
 
 <br />
