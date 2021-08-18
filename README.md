@@ -19,6 +19,8 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Bootstrap 5" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/440px-Bootstrap_logo.svg.png" />
+<img align="left" alt="Tailwindcss" height="30px" src="https://symbols.getvecta.com/stencil_97/2_tailwind-css.541185202d.svgg" />
+
 
 <br />
 
@@ -28,8 +30,7 @@
 
 <img align="left" alt="Node.js" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" />
 <img align="left" alt="MongoDB" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/1024px-MongoDB_Logo.svg.png" />
-
-<img align="left" alt="MySQL" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MySQL" height="28px" src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" />
 
 <br />
 
