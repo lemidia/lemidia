@@ -6,7 +6,7 @@
 ## Introduction
  - 🔭 I am currently studying at [Boost Camp Ai Tech hosted by Naver Connect Foundation](https://boostcamp.connect.or.kr/about.html)
 - 🌱 Full time studying relate to AI field with my best colleagues.
-- 👯 My areas of interest are machine learning, deep learning, and front-end fields in web development. 
+- 👯 My areas of interest are machine learning, deep learning, and front-end fields in web development.
 -->
 
 ## Languages, libraries, Frameworks and Tools i've used so far:
@@ -20,7 +20,6 @@
 <img align="left" alt="Bootstrap 5" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/440px-Bootstrap_logo.svg.png" />
 <img align="left" alt="Tailwindcss" height="30px" src="https://symbols.getvecta.com/stencil_97/2_tailwind-css.541185202d.svg" />
 <img align="left" alt="Redux" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Redux_Logo.png/440px-Redux_Logo.png" />
-
 
 <br />
 
@@ -80,7 +79,6 @@
 - [Basic of CSS](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
 - [Bootstrap 5](https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR)
 - [Tailwind CSS](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw)
-
 
 ### Machine Learning
 
