@@ -28,8 +28,8 @@
 
 <img align="left" alt="Node.js" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/1182px-Node.js_logo_2015.svg.png" />
 <img align="left" alt="Express.js" height="34px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" />
-<img align="left" alt="MongoDB" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/1024px-MongoDB_Logo.svg.png" />
-<img align="left" alt="MySQL" height="28px" src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" />
+<img align="left" alt="MongoDB" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/1024px-MongoDB_Logo.svg.png" />
+<img align="left" alt="MySQL" height="32px" src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" />
 
 <br />
 
