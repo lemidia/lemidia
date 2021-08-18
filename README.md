@@ -129,3 +129,5 @@ Machine learning is the science of getting computers to act without being explic
 - [Netflix Landing Page - React.js, Firebase, tmdb API](netflix-lemidia.web.app)
 
 - [Airbnb Landing Page - React.js, Firebase, React Date Picker](https://airbnb-lemidia.web.app/)
+
+- 이 외에도 Repository를 둘러보시면 많은 프로젝트들을 보실 수 있습니다.
