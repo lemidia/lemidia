@@ -17,9 +17,9 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="React" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Redux" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Redux_Logo.png/440px-Redux_Logo.png" />
 <img align="left" alt="Bootstrap 5" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/440px-Bootstrap_logo.svg.png" />
 <img align="left" alt="Tailwindcss" height="30px" src="https://symbols.getvecta.com/stencil_97/2_tailwind-css.541185202d.svg" />
+<img align="left" alt="Redux" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Redux_Logo.png/440px-Redux_Logo.png" />
 
 
 <br />
