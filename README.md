@@ -75,6 +75,13 @@
 - [Node.js & Express.js - Node and Express Tutorial](https://www.youtube.com/watch?v=TNV0_7QRDwY&t=22058s)
 - [MongoDB and Mongoose](https://www.youtube.com/watch?v=-56x56UppqQ)
 
+### Web Development - Basic CSS, CSS libraries and Frameworks
+
+- [Basic of CSS](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
+- [Bootstrap 5](https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR)
+- [Tailwind CSS](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw)
+
+
 ### Machine Learning
 
 Machine learning is the science of getting computers to act without being explicitly programmed. In the past decade, machine learning has given us self-driving cars, practical speech recognition, effective web search, and a vastly improved understanding of the human genome. Many researchers also think it is the best way to make progress towards human-level AI.
