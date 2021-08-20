@@ -16,7 +16,7 @@
 <img align="left" alt="JavaScript" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="HTML5" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="React" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="React" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Bootstrap 5" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/440px-Bootstrap_logo.svg.png" />
 <img align="left" alt="Tailwindcss" height="30px" src="https://symbols.getvecta.com/stencil_97/2_tailwind-css.541185202d.svg" />
 <img align="left" alt="Redux" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Redux_Logo.png/440px-Redux_Logo.png" />
@@ -128,7 +128,7 @@ Machine learning is the science of getting computers to act without being explic
 
 ## portfolio
 
-- [FULL STACK E-Commerce web site Using MERN STACK - React.js, Node.js, Express.js and Mongo DB Atlas](https://whispering-cove-62911.herokuapp.com) / Heroku server를 이용하고 있습니다. 처음 로딩 시에는 조금 기다려 주세요. This site using heroku server for web hosting, please wait for a second for loading when you visit first.
+- [FULL STACK E-Commerce Website Using MERN STACK - React.js, Node.js, Express.js and Mongo DB Atlas](https://whispering-cove-62911.herokuapp.com) - Heroku server를 이용하고 있습니다. 처음 로딩 시에는 조금 기다려 주세요. This site using heroku server for web hosting, please wait for a second for loading when you visit first.
 
 - [Netflix Landing Page - React.js, Firebase, tmdb API](netflix-lemidia.web.app)
 
