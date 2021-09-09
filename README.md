@@ -29,6 +29,7 @@
 <img align="left" alt="Express.js" height="38px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" />
 <img align="left" alt="MongoDB" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/1024px-MongoDB_Logo.svg.png" />
 <img align="left" alt="MySQL" height="32px" src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" />
+<img align="left" alt="MySQL" height="32px" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Firebase_Logo.png" />
 
 <br />
 
@@ -36,6 +37,7 @@
 
 <img align="left" alt="Node.js" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/440px-Nextjs-logo.svg.png" />
 
+<br />
 <br />
 
 ### Data Science
