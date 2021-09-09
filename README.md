@@ -34,7 +34,7 @@
 
 ### Web - Full Stack
 
-<img align="left" alt="Node.js" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/440px-Nextjs-logo.svg.png" />
+<img align="left" alt="Node.js" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/440px-Nextjs-logo.svg.png" />
 
 <br />
 
