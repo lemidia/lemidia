@@ -138,7 +138,7 @@ Machine learning is the science of getting computers to act without being explic
 
 - [FULL STACK E-Commerce Website Using MERN STACK - React.js, Node.js, Express.js and Mongo DB Atlas](https://whispering-cove-62911.herokuapp.com) - Heroku server를 이용하고 있습니다. 처음 로딩 시에는 조금 기다려 주세요. This site using heroku server for web hosting, please wait for a second for loading when you visit first.
 
-- [Netflix Landing Page - React.js, Firebase, tmdb API](netflix-lemidia.web.app)
+- [Netflix Landing Page - React.js, Firebase, tmdb API](https://netflix-lemidia.web.app)
 
 - [Airbnb Landing Page - React.js, Firebase, React Date Picker](https://airbnb-lemidia.web.app/)
 
