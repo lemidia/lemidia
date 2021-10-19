@@ -35,14 +35,14 @@
 
 ### Web - Full Stack
 
-<img align="left" alt="Node.js" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/440px-Nextjs-logo.svg.png" />
+<img align="left" alt="Node.js" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/440px-Nextjs-logo.svg.png" />
 
 <br />
 <br />
 
 ### Web - Query Language
 
-<img align="left" alt="graphQL" height="40px" src="http://cswiki.wlu.edu/dokuwiki/lib/exe/fetch.php/courses/cs397/winter2017/gql.png?w=600&tok=a0abae" />
+<img align="left" alt="graphQL" height="50px" src="http://cswiki.wlu.edu/dokuwiki/lib/exe/fetch.php/courses/cs397/winter2017/gql.png?w=600&tok=a0abae" />
 
 <br />
 <br />
