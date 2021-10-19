@@ -40,6 +40,13 @@
 <br />
 <br />
 
+### Web - Query Language
+
+<img align="left" alt="graphQL" height="40px" src="http://cswiki.wlu.edu/dokuwiki/lib/exe/fetch.php/courses/cs397/winter2017/gql.png?w=600&tok=a0abae" />
+
+<br />
+<br />
+
 ### Data Science
 
 <img align="left" alt="Python" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
