@@ -40,12 +40,6 @@
 
 <br />
 
-### Mobile - iOS/Android
-
-<img align="left" alt="React-Native" height="40px" src="https://luminfire.com/wp-content/uploads/2017/12/React_Native_Logo.png" />
-
-<br />
-
 ### Web - Query Language
 
 <img align="left" alt="GraphQL" height="50px" src="http://cswiki.wlu.edu/dokuwiki/lib/exe/fetch.php/courses/cs397/winter2017/gql.png?w=600&tok=a0abae" />
