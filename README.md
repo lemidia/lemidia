@@ -39,6 +39,7 @@
 <img align="left" alt="Next.js" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/440px-Nextjs-logo.svg.png" />
 
 <br />
+<br />
 
 ### Web - Query Language
 
