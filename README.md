@@ -45,7 +45,6 @@
 <img align="left" alt="React-Native" height="40px" src="https://luminfire.com/wp-content/uploads/2017/12/React_Native_Logo.png" />
 
 <br />
-<br />
 
 ### Web - Query Language
 
