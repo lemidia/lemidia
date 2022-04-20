@@ -40,9 +40,9 @@
 
 <br />
 
-### Mobile
+### Mobile - iOS/Android
 
-<img align="left" alt="React-Native.js" height="50px" src="https://luminfire.com/wp-content/uploads/2017/12/React_Native_Logo.png" />
+<img align="left" alt="React-Native" height="40px" src="https://luminfire.com/wp-content/uploads/2017/12/React_Native_Logo.png" />
 
 <br />
 <br />
