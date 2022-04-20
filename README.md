@@ -20,6 +20,7 @@
 <img align="left" alt="Bootstrap 5" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/440px-Bootstrap_logo.svg.png" />
 <img align="left" alt="Tailwindcss" height="35px" src="https://camo.githubusercontent.com/53b9876cd8e38928387c6824043b0e2772b15b1bfdb7f42d0864216abbf3dfe8/68747470733a2f2f7265666163746f72696e6775692e6e7963332e63646e2e6469676974616c6f6365616e7370616365732e636f6d2f7461696c77696e642d6c6f676f2e737667" />
 <img align="left" alt="Redux" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Redux_Logo.png/440px-Redux_Logo.png" />
+<img align="left" alt="Material UI" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Logo_material_design.svg/512px-Logo_material_design.svg.png?20200304070251" />
 
 <br />
 
@@ -35,14 +36,20 @@
 
 ### Web - Full Stack
 
-<img align="left" alt="Node.js" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/440px-Nextjs-logo.svg.png" />
+<img align="left" alt="Next.js" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/440px-Nextjs-logo.svg.png" />
+
+<br />
+
+### Mobile
+
+<img align="left" alt="React-Native.js" height="50px" src="https://luminfire.com/wp-content/uploads/2017/12/React_Native_Logo.png" />
 
 <br />
 <br />
 
 ### Web - Query Language
 
-<img align="left" alt="graphQL" height="50px" src="http://cswiki.wlu.edu/dokuwiki/lib/exe/fetch.php/courses/cs397/winter2017/gql.png?w=600&tok=a0abae" />
+<img align="left" alt="GraphQL" height="50px" src="http://cswiki.wlu.edu/dokuwiki/lib/exe/fetch.php/courses/cs397/winter2017/gql.png?w=600&tok=a0abae" />
 
 <br />
 <br />
